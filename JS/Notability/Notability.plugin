@@ -1,10 +1,8 @@
-#!name=Notability解锁
-#!desc=Notability解锁2099年
-#!date=2026-01-21
-#!category=🐹 BOBO Premium
-#!author=叮当猫chxm1023[https://github.com/chxm1023/Rewrite]
-#!icon=https://raw.githubusercontent.com/BOBOLAOSHIV587/Rules/main/Icons/AppIcons/Image/App/Notability.png
-#!openUrl=https://apps.apple.com/app/id360593530
+#!name=Notability Plus
+
+#!desc=Notability解锁
+
+#!icon=https://raw.githubusercontent.com/deezertidal/private/main/icons/notability.png
 
 [MITM]
 hostname = notability.com
